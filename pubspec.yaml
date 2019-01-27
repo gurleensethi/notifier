@@ -1,5 +1,5 @@
 name: notifier
-description: Update any widget, from anywhere at anytime. Inspired from BroadcastReceiver in Android. Works for both iOS and Android.
+description: Update any widget, from anywhere at anytime. Inspired from Broadcast Receiver in Android. Works for both iOS and Android.
 version: 1.0.0
 author: Gurleen Sethi <contactgurleensethi@gmail.com>
 homepage: https://github.com/gurleensethi/notifier

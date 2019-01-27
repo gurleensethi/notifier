@@ -4,7 +4,7 @@ Update any widget, from anywhere at anytime.
 
 ## Getting Started
 
-Inspired from `BoradcastReceiver` in Android.
+Inspired from `Broadcast Receiver` in Android.
 
 Works for both `iOS` and `Android`.
 
