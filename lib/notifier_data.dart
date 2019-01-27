@@ -1,12 +1,10 @@
-import 'package:meta/meta.dart';
-
 class NotifierData<T> {
   final bool hasData;
   final T data;
 
   NotifierData({
-    @required this.hasData,
-    @required this.data,
+    this.hasData,
+    this.data,
   }) : assert(hasData != null);
 
   @override
