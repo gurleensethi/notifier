@@ -1,8 +1,8 @@
 name: notifier
 description: Update any widget, from anywhere at anytime.
 version: 0.0.1
-author:
-homepage:
+author: Gurleen Sethi
+homepage: https://github.com/gurleensethi/notifier
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
