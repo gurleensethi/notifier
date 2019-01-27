@@ -2,205 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63282b1b-3ee8-4b87-b3ea-c28e4e525ca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/libraries/Flutter_for_Android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/runConfigurations/main_dart.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileContent/fileContent.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/javaCompile/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/example/example/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/example_android.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app.dill.track.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app.dill.track.dill.incremental.dill" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/generated/not_namespaced_r_class_sources/debug/processDebugResources/r/com/example/example/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/generated/source/buildConfig/debug/com/example/example/BuildConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/apk_list/debug/mainApkListPersistenceDebug/apk-list.gson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/blame/res/debug/single/debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/compatible_screen_manifest/debug/createDebugCompatibleScreenManifests/out/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/snapshot_blob.bin.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/debug/snapshot_blob.bin.d.fingerprint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/flutter/flutter-x86.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/YybQfU9HZ4R5HBOaX2mmexqT_T8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/yrxqU5oIzHVT2uLsAScDKt9Wopo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/merge-state" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/YybQfU9HZ4R5HBOaX2mmexqT_T8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/debug-mergeJniLibs/zip-cache/yrxqU5oIzHVT2uLsAScDKt9Wopo=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/L7dTGrYOA_OQMU5uym2S3voVHb8=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/incremental/packageDebug/tmp/debug/zip-cache/vBrFoLl+SRZDqJ42WlI5HtwDZ1Y=" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/instant_run_merged_manifests/debug/processDebugManifest/instant-run/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/BuildConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/MainActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/R$drawable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/R$mipmap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/R$style.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/example/example/R.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/javac/debug/compileDebugJavaWithJavac/classes/io/flutter/plugins/GeneratedPluginRegistrant.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/AssetManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/FontManifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/isolate_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/kernel_blob.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/vm_snapshot_data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/processDebugResources/out/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/split_list/debug/splitsDiscoveryTaskDebug/split-list.gson" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/BuildConfig.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/MainActivity.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/R$drawable.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/R$mipmap.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/R$style.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/com/example/example/R.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/8/io/flutter/plugins/GeneratedPluginRegistrant.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexBuilder/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/0/lib/x86_64/libflutter.so" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/app.apk.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/apk/debug/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/app/tmp/flutterBuildX86Jar/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/frontend_server.d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/build/last_build_run.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Generated.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/ios/Runner/main.m" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/test/widget_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/main_notifier.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/notifier.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/notifier_data.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/notifier_impl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/notifier_provider.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifier.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/notifier_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -226,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pubspec.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="120">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -236,8 +39,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="669">
-                <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+              <first_editor relative-caret-position="479">
+                <caret line="71" column="151" selection-start-line="71" selection-start-column="151" selection-end-line="71" selection-end-column="151" />
               </first_editor>
               <second_editor />
             </state>
@@ -360,7 +163,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548613911058" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548614429655" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -417,14 +220,14 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Captures" order="5" />
       <window_info id="Capture Tool" order="6" />
-      <window_info content_ui="combo" id="Project" order="7" weight="0.25250965" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.25250965" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.30425963" />
       <window_info anchor="bottom" id="Android Profiler" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Logcat" order="3" />
       <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.3296146" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.3296146" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Run" order="8" weight="0.3286004" />
@@ -545,13 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/notifier_impl.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="516">
@@ -572,11 +368,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="669">
-            <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
+          <first_editor relative-caret-position="479">
+            <caret line="71" column="151" selection-start-line="71" selection-start-column="151" selection-end-line="71" selection-end-column="151" />
           </first_editor>
           <second_editor />
         </state>

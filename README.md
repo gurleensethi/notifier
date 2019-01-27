@@ -69,4 +69,4 @@ void main() {
 ```
 
 #### Things to be aware of!
-* If a callback is registered on an action with a specific data type `T`, then passing data with data type other than `T` in `notify` method cause error.
+* If a callback is registered on an action with a specific data type `T`, then passing data with data type other than `T` in `notify` method will throw error.
