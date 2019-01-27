@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 import 'package:notifier/notifier.dart';
 import 'package:notifier/notifier_impl.dart';
-
 
 class NotifierProvider extends InheritedWidget {
   final Notifier _notifier = NotifierImpl();
