@@ -66,12 +66,10 @@ class NotifierImpl implements Notifier {
   /// This functions helps to prevent adding [Stream] for actions that don't
   /// have any callbacks.
   void _checkAndCreateStream(String action) {
-    _lock.synchronized(() {
       if (!_actionStreamMappings.containsKey(action)) {
         _actionStreamMappings[action] = StreamController.broadcast();
         _actionDataMappings[action] = NotifierData(hasData: false, data: null);
       }
-    });
   }
 
   /// Increment the current count of callbacks registered for the stream
